@@ -24,7 +24,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @NFSProjects</b>
 """
 
     close = [
@@ -51,8 +51,8 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
  • Creator: @{}
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
- • Owner Repo: @mrismanaziz
+ • Source Code: <a href='https://github.com/NFS03/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Owner Repo: @KurangKopiGes
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @NFSProjects</b>
 """
